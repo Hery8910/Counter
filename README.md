@@ -18,12 +18,9 @@ This is the first project I've created using HTML, CSS, and JavaScript. It's a s
 
 ## Preview
 
-
+![Preview]()
 
 ## Author
 
 Heriberto Santana Solsona
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
