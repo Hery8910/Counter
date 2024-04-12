@@ -18,7 +18,7 @@ This is the first project I've created using HTML, CSS, and JavaScript. It's a s
 
 ## Preview
 
-![Preview]()
+![Preview](Screenshot.png)
 
 ## Author
 
